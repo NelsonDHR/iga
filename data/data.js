@@ -91,7 +91,7 @@ export const data = [
   },
   {
     question: "¿Cuál es la principal diferencia entre residuos orgánicos e inorgánicos?",
-    choices: ["Los residuos orgánicos son biodegradables y los inorgánicos no lo son.", "Los residuos inorgánicos son reciclables y los orgánicos no lo son", "Los residuos orgánicos son producidos por seres vivos y los inorgánicos no", "Los residuos orgánicos son peligrosos y los inorgánicos no"],
+    choices: ["Los residuos orgánicos son biodegradables y los inorgánicos no lo son", "Los residuos inorgánicos son reciclables y los orgánicos no lo son", "Los residuos orgánicos son producidos por seres vivos y los inorgánicos no", "Los residuos orgánicos son peligrosos y los inorgánicos no"],
     answer: "Los residuos orgánicos son biodegradables y los inorgánicos no lo son",
   },
   {
