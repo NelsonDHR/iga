@@ -57,7 +57,7 @@ export const data = [
   {
     question: "El rango de costo aproximado de un contenedor de residuos sólidos de 1100L es:",
     choices: ["Entre 1 y 1,5 millones de pesos", "Entre 7 y 8 millones de pesos", "Entre 500 mil y 1 millón de pesos", "Entre 1,5 y 3 millones de pesos"],
-    answer: "Entre 1,5 y 3 millones de pesos.",
+    answer: "Entre 1,5 y 3 millones de pesos",
   },
   {
     question: "¿Qué es el sistema de gestión integral de residuos sólidos?",
