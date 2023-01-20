@@ -15,7 +15,7 @@ export const data = [
     answer: "Negro",
   },
   {
-    question: "¿De qué color es el recipiente en el cual se deben depositar los residuos orgánicos aprovechables (Plástico, cartón, vidrio… ) en Colombia?",
+    question: "¿De qué color es el recipiente en el cual se deben depositar los residuos orgánicos aprovechables en Colombia?",
     choices: ["Gris", "Amarillo", "Azul", "Verde"],
     answer: "Verde",
   },
@@ -76,7 +76,7 @@ export const data = [
   },
   {
     question: "¿Cuál es la principal fuente de residuos sólidos en Colombia?",
-    choices: ["Agricultura", "Industria", "Comercio", "Residencias"],
+    choices: ["Agricultura", "Industria", "Comercio", "Residencial"],
     answer: "Residencial",
   },
   {
@@ -87,7 +87,7 @@ export const data = [
   {
     question: "¿Quién es el principal responsable de la gestión de los residuos sólidos en Colombia?",
     choices: ["El gobierno", "Las empresas privadas", "Los ciudadanos", "Todos son responsables"],
-    answer: "Todos son responsables ",
+    answer: "Todos son responsables",
   },
   {
     question: "¿Cuál es la principal diferencia entre residuos orgánicos e inorgánicos?",
